@@ -1,7 +1,6 @@
 ## About
 Hi, I’m Emanuel (@Surtivo). I’m currently emphasizing learning more about C and all his most popular variantions. I Really like Assembly and plan to learn more of it in later times.
 - Pronouns: He/Him
-- Fun fact: Pets are the best!
 
 <div>
 <a href="https://github.com/Surtivo">
@@ -10,7 +9,7 @@ Hi, I’m Emanuel (@Surtivo). I’m currently emphasizing learning more about C 
 </div>
           
 ### Planning to learn:
-- ** Lua  **;
+- **Lua**;
 - **Arduino**;
 - **Android Development**;
 - **Japanese**;
