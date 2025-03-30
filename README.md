@@ -2,11 +2,13 @@
 Hi, I’m Emanuel (@Surtivo). I’m currently emphasizing learning more about C and all his most popular variantions. I Really like Assembly and plan to learn more of it in later times.
 - Pronouns: He/Him
 
-<div>
-<a href="https://github.com/Surtivo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surtivo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Surtivo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/Surtivo">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surtivo&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Surtivo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
+
           
 ### Planning to learn:
 - **Lua**;
