@@ -7,10 +7,12 @@ Olá! Meu nome é Emanuel e estou atualmente cursando Engenharia de Computação
 
 ##Interesses
 
+<img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="40" height="40"/>
+          
+
 ##Habilidades
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img loading="lazy" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg width="40" height="40"/>
           
 
 ##Quero aprender
