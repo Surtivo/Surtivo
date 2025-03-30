@@ -16,15 +16,8 @@ Hi, I’m Emanuel (@Surtivo). I’m currently emphasizing learning more about C 
 - **Android Development**;
 - **Japanese**;
 
-<div style="text-align: center;">
-  <!-- Linguagens -->
-  <div style="margin-bottom: 20px;">
-    <h3>Linguagens:</h3>
-    <img loading="lazy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  </div>
+### Languages:
+<img loading="lazy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   
 ### Programming Languages:
 
